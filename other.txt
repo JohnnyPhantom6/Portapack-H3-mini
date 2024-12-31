@@ -1,0 +1,19 @@
+amazon link: https://www.amazon.ca/dp/B0CM96ZKGP?ref=ppx_pop_mob_ap_share
+
+panel thickness: 1.6mm
+Scroll wheel hole diameter: 32.6mm
+4 corner screw hole size: 3mm
+battery on/off button diameter: 3.6mm
+Antenna hole diameter: 7mm
+Reset and dfu button diameter: 3.95mm
+Aux hole diameter:5.42mm
+gps hole diameter(has no function so can probably forgoe this hole: 7mm
+front and back panel dimensions: 127.13mm X 82.3mm
+Lcd hole dimensions:67mm X 51.85mm
+Top and bottom side panel dimensions without tabs: 23.2mm X 75.2mm
+Top and bottom side panel w/ tabs : 26-26.2mm X 78.08mm
+Left and right side panels without tabs: 23.3mm X 127mm
+Left and right side panels w/ tabs : 26.3mm X 127mm
+Little tab dimensions: 5.5mm X 1.5mm
+Tab holes: 6.6mm X 1.7mm
+Space between back of hackrf board and back panel: 4mm ( i need plus 10mm for battery not +6mm due to some terminals sticking out the back and i dont want it puncturing the battery Ill also add some cushioning tape to prevent that aswell as to hold the battery in place)
