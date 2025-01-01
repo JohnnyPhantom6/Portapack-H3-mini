@@ -17,3 +17,4 @@ Left and right side panels w/ tabs : 26.3mm X 127mm
 Little tab dimensions: 5.5mm X 1.5mm
 Tab holes: 6.6mm X 1.7mm
 Space between back of hackrf board and back panel: 4mm ( i need plus 10mm for battery not +6mm due to some terminals sticking out the back and i dont want it puncturing the battery Ill also add some cushioning tape to prevent that aswell as to hold the battery in place)
+10500mah battery dimensions 10x60x110mm
