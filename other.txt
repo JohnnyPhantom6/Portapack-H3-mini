@@ -18,4 +18,4 @@ Little tab dimensions: 5.5mm X 1.5mm
 Tab holes: 6.6mm X 1.7mm
 Space between back of hackrf board and back panel: 4mm ( i need plus 10mm for battery not +6mm due to some terminals sticking out the back and i dont want it puncturing the battery Ill also add some cushioning tape to prevent that aswell as to hold the battery in place)
 10500mah battery dimensions 10x60x110mm
-Resistive touch stylus dimensions 5mmx91mm/.02 inch x 3.58mm(D*L), 2mm/0.08-inch pen tips size(Straight fro amazon ad)
+Resistive touch stylus dimensions 5mmx91mm/.02 inch x 3.58mm(D*L), 2mm/0.08-inch pen tips size(Straight from amazon ad)
